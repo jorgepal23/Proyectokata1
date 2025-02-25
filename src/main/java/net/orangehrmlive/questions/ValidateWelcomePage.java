@@ -4,6 +4,7 @@ import net.orangehrmlive.UI.LoginUI;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.actions.Click;
+//esto es una validacion
 
 public class ValidateWelcomePage implements Question {
     @Override
