@@ -26,5 +26,5 @@ jobs:
 
     - name: ejecutar pruebas
       run: |
-        mvn test -Dtest=net.orangehrmlive.Runners.LogRunner
-        mvn test -Dtest=net.orangehrmlive.Runners.MenuRunner
+        mvn test -Dtest=net.orangehrmlive.Runners.LogRunner.java
+        mvn test -Dtest=net.orangehrmlive.Runners.MenuRunner.java
